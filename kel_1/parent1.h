@@ -26,7 +26,7 @@ void delete_first_parent1(List_parent1 &L, adr_parent1 &P);
 void delete_last_parent1(List_parent1 &L, adr_parent1 &P);
 void delete_parent1(List_parent1 &L, adr_parent1 &P);
 
-void print_info_parent1(List_parent1 L, bool all);
+void print_list_parent1(List_parent1 L, bool all);
 adr_parent1 find_element_parent1(List_parent1 L, info_parent1 x);
 
 void add_child1(adr_parent1 &R, adr_child1 K);
