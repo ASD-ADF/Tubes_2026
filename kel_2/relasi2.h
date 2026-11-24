@@ -26,7 +26,7 @@ void delete_first_rel2(List_rel2 &L, adr_rel2 &P);
 void delete_last_rel2(List_rel2 &L, adr_rel2 &P);
 void delete_rel2(List_rel2 &L, adr_rel2 &P);
 
-void print_info_rel2(List_rel2 L, bool all);
+void print_list_rel2(List_rel2 L, bool all);
 adr_rel2 find_element_rel2(List_rel2 L, adr_parent2 parent, adr_child2 child);
 
 #endif // RELASI2_H_INCLUDED
