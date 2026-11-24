@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1795530349 source:g:\slide\asd\tubes_2026\kel_2\child.cpp
+
+1795530374 source:g:\slide\asd\tubes_2026\kel_2\menu.cpp
+
+1795530276 source:g:\slide\asd\tubes_2026\kel_2\parent.cpp
+
+1795530349 source:g:\slide\asd\tubes_2026\kel_3\child.cpp
+
+1795542712 source:g:\slide\asd\tubes_2026\kel_1\child1.cpp
+	"child1.h"
+
+1795544095 g:\slide\asd\tubes_2026\kel_1\child1.h
+	"../tipe_data.h"
+	<iostream>
+
+1795541322 g:\slide\asd\tubes_2026\tipe_data.h
+	<iostream>
+
+1795542770 source:g:\slide\asd\tubes_2026\kel_1\relasi1.cpp
+	"relasi1.h"
+
+1795543962 g:\slide\asd\tubes_2026\kel_1\relasi1.h
+	"child1.h"
+	<iostream>
+
+1795543396 source:g:\slide\asd\tubes_2026\kel_2\child2.cpp
+	"child2.h"
+
+1795544447 g:\slide\asd\tubes_2026\kel_2\child2.h
+	"../tipe_data.h"
+	<iostream>
+
+1795542806 source:g:\slide\asd\tubes_2026\kel_1\parent1.cpp
+	"parent1.h"
+	"relasi1.h"
+
+1795544248 g:\slide\asd\tubes_2026\kel_1\parent1.h
+	"../tipe_data.h"
+	"relasi1.h"
+	<iostream>
+
+1795543566 source:g:\slide\asd\tubes_2026\kel_2\parent2.cpp
+	"parent2.h"
+	"relasi2.h"
+
+1795543548 g:\slide\asd\tubes_2026\kel_2\parent2.h
+	"../tipe_data.h"
+	<iostream>
+
+1795544421 g:\slide\asd\tubes_2026\kel_2\relasi2.h
+	"parent2.h"
+	"child2.h"
+	<iostream>
+
+1795543522 source:g:\slide\asd\tubes_2026\kel_2\relasi2.cpp
+	"relasi2.h"
+
+1795543252 source:g:\slide\asd\tubes_2026\kel_3\child3.cpp
+	"child3.h"
+
+1795543246 g:\slide\asd\tubes_2026\kel_3\child3.h
+	"../tipe_data.h"
+	<iostream>
+
+1795544981 source:g:\slide\asd\tubes_2026\kel_1\menu1.cpp
+	"../tipe_data.h"
+	"menu1.h"
+	"parent1.h"
+	"child1.h"
+
+1795530374 source:g:\slide\asd\tubes_2026\test\menu.cpp
+
+1795541372 source:g:\slide\asd\tubes_2026\tipe_data.cpp
+	"tipe_data.h"
+
+1795543326 source:g:\slide\asd\tubes_2026\kel_3\parent3.cpp
+	"parent3.h"
+	"child3.h"
+
+1795544285 g:\slide\asd\tubes_2026\kel_3\parent3.h
+	"../tipe_data.h"
+	"child3.h"
+	<iostream>
+
+1795544814 source:g:\slide\asd\tubes_2026\kel_2\menu2.cpp
+	"../tipe_data.h"
+	"menu2.h"
+	"parent2.h"
+	"child2.h"
+	"relasi2.h"
+
+1795544814 source:g:\slide\asd\tubes_2026\kel_3\menu3.cpp
+	"../tipe_data.h"
+	"menu3.h"
+	"parent3.h"
+	"child3.h"
+
+1795545030 g:\slide\asd\tubes_2026\kel_1\menu1.h
+	"parent1.h"
+	"child1.h"
+
+1795545055 g:\slide\asd\tubes_2026\kel_2\menu2.h
+	"parent2.h"
+	"child2.h"
+	"relasi2.h"
+
+1795545088 g:\slide\asd\tubes_2026\kel_3\menu3.h
+	"parent3.h"
+

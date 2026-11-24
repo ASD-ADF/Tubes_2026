@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tubes_2026" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Tubes_2026" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Tubes_2026" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="kel_1/child1.cpp" />
+		<Unit filename="kel_1/child1.h" />
+		<Unit filename="kel_1/menu1.cpp" />
+		<Unit filename="kel_1/menu1.h" />
+		<Unit filename="kel_1/parent1.cpp" />
+		<Unit filename="kel_1/parent1.h" />
+		<Unit filename="kel_1/relasi1.cpp" />
+		<Unit filename="kel_1/relasi1.h" />
+		<Unit filename="kel_2/child2.cpp" />
+		<Unit filename="kel_2/child2.h" />
+		<Unit filename="kel_2/menu2.cpp" />
+		<Unit filename="kel_2/menu2.h" />
+		<Unit filename="kel_2/parent2.cpp" />
+		<Unit filename="kel_2/parent2.h" />
+		<Unit filename="kel_2/relasi2.cpp" />
+		<Unit filename="kel_2/relasi2.h" />
+		<Unit filename="kel_3/child3.cpp" />
+		<Unit filename="kel_3/child3.h" />
+		<Unit filename="kel_3/menu3.cpp" />
+		<Unit filename="kel_3/menu3.h" />
+		<Unit filename="kel_3/parent3.cpp" />
+		<Unit filename="kel_3/parent3.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="test_integrasi/menu_integrasi.cpp" />
+		<Unit filename="test_integrasi/menu_integrasi.h" />
+		<Unit filename="tipe_data.cpp" />
+		<Unit filename="tipe_data.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
