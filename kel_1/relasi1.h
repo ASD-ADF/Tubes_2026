@@ -24,7 +24,7 @@ void delete_first_rel1(List_rel1 &L, adr_rel1 &P);
 void delete_last_rel1(List_rel1 &L, adr_rel1 &P);
 void delete_rel1(List_rel1 &L, adr_rel1 &P);
 
-void print_info_rel1(List_rel1 L, bool all);
+void print_list_rel1(List_rel1 L, bool all);
 adr_rel1 find_element_rel1(List_rel1 L, adr_child1 child);
 
 
